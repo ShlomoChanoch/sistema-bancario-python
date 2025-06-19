@@ -75,3 +75,13 @@ Armazena contas em uma lista, composta de:
 * Usuário (Nome e CPF)
 
 O usuário pode ter mais de uma conta, mas apenas toda conta pertence somente a um usuário.
+
+## Desafio 3 - Modelando o Sistema Bancário em Python
+
+Iniciar a modelagem do sistema bancário em Programação Orientada a Objetos.
+
+Adicionar classes para cliente e as operações bancárias: depósito e saque.
+
+Atualizar a implementação do sistema bancário para armazenar os dados dos clientes e contas bancárias em objetos ao invés de dicionários.
+
+O código deve seguir o modelo de classes UML (Unified Modeling Language) apresentado.
